@@ -24,5 +24,5 @@ A identificação de outliers é fundamental por diversos motivos:
 Sinta-se à vontade para contribuir com melhorias para este projeto. Sugestões e pull requests são bem-vindos!
 
 ---
-Desenvolvido por [Seu Nome]
+Desenvolvido por João Hoffmann
 
